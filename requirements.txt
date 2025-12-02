@@ -1,0 +1,7 @@
+flask
+psycopg2-binary
+sqlparse
+pglast
+requests
+flask-limiter
+sentence_transformers
